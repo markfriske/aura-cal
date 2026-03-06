@@ -1,0 +1,14 @@
+
+{
+    "appId": "com.auracal.app",
+    "appName": "Aura Home Wall",
+    "webDir": "dist",
+    "bundledWebRuntime": false,
+    "server": {
+      "androidScheme": "https"
+    },
+    "ios": {
+      "contentInset": "always"
+    }
+  }
+  

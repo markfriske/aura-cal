@@ -1,0 +1,11 @@
+
+{
+    "name": "Aura: Home Wall Dashboard",
+    "description": "An always-on, high-legibility family calendar and dashboard designed specifically for wall-mounted iPads. Features large typography, weather integration, and automatic syncing logic.",
+    "requestFramePermissions": [
+      "geolocation",
+      "microphone",
+      "camera"
+    ]
+  }
+  
